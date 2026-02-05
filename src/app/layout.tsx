@@ -8,7 +8,6 @@ export const metadata: Metadata = {
   title: 'EmpathOS - Emotion-Aware Digital Habitat',
   description: 'Your emotionally intelligent OS layer powered by on-device AI',
 }
-
 export default function RootLayout({
   children,
 }: {
