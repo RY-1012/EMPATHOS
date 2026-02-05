@@ -1,5 +1,4 @@
 'use client'
-
 import type { EmotionalState } from '@/types'
 import { Target, Zap, HelpCircle, Waves } from 'lucide-react'
 
